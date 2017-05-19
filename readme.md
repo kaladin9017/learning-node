@@ -1,7 +1,11 @@
 # learning-node
 A repo with my progress in the wesbos learn node tuts. Hopefully I will learn something new along the way.
 
+### MVC pattern
 
+M - Model(code accessing and talking to data stored somewhere)
+V - View(pub template)
+C - Controller
 
 
 
